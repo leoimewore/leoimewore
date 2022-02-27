@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonard Isaac
+- 👋 Hi, I’m 
 - 👀 I’m interested interested in Front End Software Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate with other Developers and learning JavaScript
