@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 
 - 👀 I’m interested interested in Front End Software Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate with other Developers and learning JavaScript
 - 📫 How to reach me at leoimewore@yahoo.com
 
