@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonard aka [burgeoning Front End Developer]
+- 👋 Hi, I’m Leonard a Front End Developer
 - 👀 
 - 🌱 I’m currently developing my skill set in Web development through self learning and in-class program
 - 💞️ I’m looking to collaborate with other Developers and learning JavaScript
