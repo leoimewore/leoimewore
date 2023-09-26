@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Leonard a Front End Developer
+- 👋 Hi, I’m Leonard a IT Professional 
 - 👀 
-- 🌱 I’m currently developing my skill set in Web development through self learning and in-class program
-- 💞️ I’m looking to collaborate with other Developers and learning JavaScript
-- 🥅 2022 Goals: Become a web developer
+- 🌱 I’m continuing developing skills in devops ans web development
+- 💞️ I’m looking to collaborate with other Developers and improve my Devops tools skill set
+- 🥅 2023 Goals:Learn more devops tool 
 - ⚡ Fun fact: I love sports and travelling
 - 📫 How to reach me at 
 - Connect with me  [leoimewore@yahoo.com}
