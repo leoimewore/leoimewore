@@ -14,12 +14,15 @@ You can click the Preview link to take a look at your changes.
 
 [Language and Tools ]
 
-
-![image](https://user-images.githubusercontent.com/95531716/170833250-da6be44a-0c00-4cf9-a6ec-43ed1905c973.png)
-
-![image](https://user-images.githubusercontent.com/95531716/170833239-84c9b6da-f041-4d8a-8282-6b13f2057feb.png)
+![Arrow Timeline Process Diagram Infographic Brainstorm](https://github.com/leoimewore/leoimewore/assets/95531716/50a2f9c8-e447-4e70-b822-e6cc554528b2)
 
 ![image](https://user-images.githubusercontent.com/95531716/170833228-e553a2ae-b6b4-47a4-bd59-0ba346586055.png)
 
 ![image](https://user-images.githubusercontent.com/95531716/170833208-cb922fc1-2388-4c90-9c70-344001c44290.png)
+
+
+## Projects
+1) Implement an Apache Web server on AWS with Terraform: https://github.com/leoimewore/Apache-Web-Server
+2) Use AWS Lambda for Amazon machine Image back-up on AWS : https://github.com/leoimewore/AWS-AMI-BACKUP
+3) Use github actions to deploy a containarized React app on Amazon ECS: https://github.com/leoimewore/job_search
 
