@@ -1,24 +1,11 @@
-- 👋 Hi, I’m Leonard a IT Professional 
+- 👋 Hi, I’m Leonard
 - 👀 
-- 🌱 I’m continuing developing skills in devops ans web development
-- 💞️ I’m looking to collaborate with other Developers and improve my Devops tools skill set
-- 🥅 2023 Goals:Learn more devops tool 
+- 🌱 Enjoy writing code in my spare time
 - ⚡ Fun fact: I love sports and travelling
 - 📫 How to reach me at 
 - Connect with me  [leoimewore@yahoo.com}
 
-<!---
-leoimewore/leoimewore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-[Language and Tools ]
-
-![Arrow Timeline Process Diagram Infographic Brainstorm](https://github.com/leoimewore/leoimewore/assets/95531716/50a2f9c8-e447-4e70-b822-e6cc554528b2)
-
-![image](https://user-images.githubusercontent.com/95531716/170833228-e553a2ae-b6b4-47a4-bd59-0ba346586055.png)
-
-![image](https://user-images.githubusercontent.com/95531716/170833208-cb922fc1-2388-4c90-9c70-344001c44290.png)
 
 
 ## Projects
